@@ -23,7 +23,7 @@ For WHC technical exam.
 - Result: 5 10 30 50
   
 **Command: repo-desc Jenalie command-app-repo**
-- Result: Description of the linux repository from GitHub.
+- Result: Description from GitHub.
 
 ## Added command handlers (optional):
 
